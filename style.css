@@ -132,7 +132,7 @@ span{
     }
     .left{
         width: 100vw;
-        height: 47vh;
+        height: 50vh;
         border-bottom-right-radius: 8%;
         border-bottom-left-radius: 8%;
         border-top-right-radius: 0%;
@@ -140,7 +140,7 @@ span{
     }
     .right{
         width: 100vw;
-        height: 53vh;
+        height: 50vh;
         
     }
     .summary-1, .summary-2, .summary-3, .summary-4{
