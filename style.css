@@ -5,6 +5,7 @@ body{
   background-color: hsl(221, 100%, 96%);
   padding-top: 100px;
   color: white;
+  font-family: h;
 }
 .main{
     width: 40vw;
@@ -140,9 +141,15 @@ span{
     }
     .summary-1, .summary-2, .summary-3, .summary-4{
         width: 90vw;
-        height: 6vh;
-        margin: 10px;
-        border-radius: 5px;
-        color: black;
     }
+    .button{
+        width: 90vw;
+        background: hsl(224, 30%, 27%);
+    }
+    .summary{
+        text-align: left;
+        width: 90vw;
+        margin-top: 10px;
+    }
+    
   }
