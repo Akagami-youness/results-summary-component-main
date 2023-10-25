@@ -132,7 +132,7 @@ span{
     }
     .left{
         width: 100vw;
-        height: 50vh;
+        height: 45vh;
         border-bottom-right-radius: 8%;
         border-bottom-left-radius: 8%;
         border-top-right-radius: 0%;
@@ -140,8 +140,15 @@ span{
     }
     .right{
         width: 100vw;
-        height: 50vh;
-        
+        height: 55vh;
+    }
+    .great{
+        font-size: 20px;
+    }
+    .circle{
+        width: 120px;
+        height: 120px;
+        border-radius: 50%;
     }
     .summary-1, .summary-2, .summary-3, .summary-4{
         width: 90vw;
