@@ -132,11 +132,16 @@ span{
     }
     .left{
         width: 100vw;
-        height: 100vh;
+        height: 47vh;
+        border-bottom-right-radius: 8%;
+        border-bottom-left-radius: 8%;
+        border-top-right-radius: 0%;
+        border-top-left-radius: 0%;
     }
     .right{
         width: 100vw;
-        height: 100vh;
+        height: 53vh;
+        
     }
     .summary-1, .summary-2, .summary-3, .summary-4{
         width: 90vw;
@@ -148,9 +153,10 @@ span{
     .summary{
         text-align: left;
         width: 90vw;
-        margin-top: 10px;
+        margin-top: 5px;
     }
     body{
-        padding-top: 0px;
+        padding: 0;
+        margin: 0;
       }
   }
